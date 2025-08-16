@@ -27,7 +27,7 @@ Quick Start (Windows 11)
 
 1. Clone and install
 
-	git clone https://github.com/your-user/fractal-studio.git
+	git clone https://github.com/ASPDesignLabs/Fractal-Generator-R3F
 	cd fractal-studio
 	npm install
 
