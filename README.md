@@ -30,6 +30,7 @@ Quick Start (Windows 11)
 	git clone https://github.com/ASPDesignLabs/Fractal-Generator-R3F
 	cd fractal-studio
 	npm install
+	npm i vite
 
 
 1. Start dev server
