@@ -42,7 +42,7 @@ Quick Start (Windows 11)
 
 	npm run build
 	npm run preview
-	# Open the printed URL (default http://localhost:4173)
+
 
 Requirements
 
